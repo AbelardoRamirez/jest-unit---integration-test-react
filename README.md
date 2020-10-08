@@ -1,68 +1,43 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Unitarias:
 
-## Available Scripts
+_Enfocadas en pequeñas funcionalidades._
 
-In the project directory, you can run:
+#### Integracion;
 
-### `npm start`
+_Enfocadas en como reaccionan varias piezas en conjunto_
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Un Ejemplo de Prueba Unitaria:
+De 1 llanta, que funcione, resistencia suficiente,
+se destruyo muy rapido, no aguanta cierto aire.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Un Ejemplo de Prueba Integracion:
+Montar el carro, montar las ventanas, montar todos los otros componentes...
 
-### `npm test`
+& Todo esto se le conoce como _*AAA*_:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+_Arrange - Arreglar:_
+Inicializamos variables
+Importaciones necesarias
 
-### `npm run build`
+_Act - Actuar:_
+Llamar metodos
+Simular clicks
+Realizar acciones sobre el paso anterior
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+_Assert - Afirmar:_
+Son los resultados esperados
+Ej: Que algo cambie, algo incremente o bien que nada suceda
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+_No se deben de realizar pruebas o probar una libreria de alguien mas, porque alguien ya la probo, solamente es integrandola en mi app_
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Junta de Aldo**
 
-### `npm run eject`
+Join Zoom Meeting
+https://gruposalinas.zoom.us/j/2131759463?pwd=TFRiQWdZSkhZd3JHTFNTMi9pNHpXQT09
+Meeting ID: 213 175 9463
+Passcode: 0574566438
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Design Thinking
+Join Zoom Meeting
+https://gruposalinas.zoom.us/j/82029520592
+Meeting ID: 820 2952 0592
