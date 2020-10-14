@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba con Enzyme en <PrimeraApp /> Debe de mostrar <PrimeraApp/> Correctamente 1`] = `
+<div
+  className="row"
+>
+  <div
+    className="col"
+  >
+    <h3
+      className="h3 font-weight-bold text-center"
+    >
+      Experimento Funcional Test
+    </h3>
+    <h2
+      className="h2 font-weight-bolder text-center"
+    >
+      Hola, soy Gokun
+      !!!
+    </h2>
+    <ul>
+      <li
+        key="0"
+      >
+        1
+         
+        Incompleted
+      </li>
+      <li
+        key="1"
+      >
+        2
+         
+        OK
+      </li>
+      <li
+        key="2"
+      >
+        3
+         
+        Incompleted
+      </li>
+      <li
+        key="3"
+      >
+        4
+         
+        OK
+      </li>
+    </ul>
+    <p
+      className="font-weight-lighter text-monospace"
+    >
+      <span
+        className="text-success"
+      >
+        Mi Subtitulo
+      </span>
+    </p>
+  </div>
+</div>
+`;

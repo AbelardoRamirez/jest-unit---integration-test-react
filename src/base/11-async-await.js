@@ -10,10 +10,19 @@ export const getUsersAsync = async () => {
         const usrs = response.json();
 
         return usrs;
-        const h3Element = document.createElement('pre');
-        h3Element.innerHTML = `<code>${usrs}</code>`;
     } catch (err) {
         return `Error al obtener datos de Https://Www.`;
+        //console.error(err);
+    }
+}
+export const getUsersErrorAsync = async () => {
+
+    try {
+        const response = await fetch('https://jjsonplaceholder.typicode.com/api/users');
+        const usrs = response.json();
+        return usrs;
+    } catch (err) {
+        throw new Error(err);
         //console.error(err);
     }
 }
